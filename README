@@ -1,0 +1,5 @@
+connect:
+psql postgres://postgres:postgres@localhost:5432/chirpy
+
+goose:
+goose postgres postgres://postgres:postgres@localhost:5432/chirpy <up/down>
