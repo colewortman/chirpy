@@ -9,4 +9,4 @@ require (
 	golang.org/x/crypto v0.27.0
 )
 
-require github.com/golang-jwt/jwt/v5 v5.2.2 // indirect
+require github.com/golang-jwt/jwt/v5 v5.2.2
